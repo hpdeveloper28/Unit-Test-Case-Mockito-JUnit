@@ -1,3 +1,3 @@
-# Data-Binding
+# Unit Test Case Mockito JUnit
 
-Sample application with Data Binding with User model
+Sample unit test cases with Mockito and JUnit
